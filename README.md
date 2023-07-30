@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harees300
 - 👀 I’m interested in MERN Stack  
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning , MERN web development... 
 - 📫 How to reach me hareess300@gmail.com
 
 <!---
